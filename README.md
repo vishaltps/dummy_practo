@@ -129,4 +129,3 @@ curl --location --request POST 'localhost:3000/api/v1/appointments' \
     "errors": []
 }
 ```
-*
