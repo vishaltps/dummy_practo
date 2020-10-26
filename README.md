@@ -13,6 +13,16 @@ Setup the application
 1. `bundle install`
 2. `rails db:setup`
 3. `rails db:migrate`
+4. `rails db:seed`
+
+login cred for doctor (If you have run seed, otherwise you have to create it manually)
+email: doctor@gmail.com
+password: hello123
+
+login cred for patient (If you have run seed, otherwise you have to create it manually)
+email: patient@gmail.com
+password: hello123
+
 
 **API Documentation**
 
